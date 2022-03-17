@@ -126,7 +126,7 @@ Résultat : <img style="" src="https://latex.codecogs.com/svg.image?\small{\colo
 
 ---
 
-<p align="right"><a href="../les-calculs-asticieux">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-calculs-astucieux">Section suivante ⏭️</a></p>
 
 
 ---
