@@ -19,20 +19,27 @@ Voici l'ordre de priorité lors d'un calcul, appelé PEMDAS.
 Quand aucune operation n'est prioritaire, on effectue les calculs de gauche à droite.
 
 ## Vocabulaire
+
 #### Les additions 
+
 Dans l'addition `5 + 4 = 9`
 - `5` et `4` sont les `termes`
 - `9` est la `somme`
   
 #### Les soustractions
+
 Dans la soustraction `5 - 4 = 1`
 - `5` et `4` sont les `termes`
 - `1` est la `différence`
+  
 #### Les multiplications
+
 Dans la multiplication `5 * 4 = 20`
 - `5` et `4` sont les `facteurs`
 - `20` est le `produit`
+  
 #### Les divisions
+
 Dans la division  `20 / 4 = 5`
 - `20` est le `dividende`
 - `4` est le `diviseur`
