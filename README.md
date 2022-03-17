@@ -8,6 +8,7 @@ Ce cours est inspiré des cours de préparation au DAEUB de [Maxime Mikolajczak]
 
 P0.01 - [Les prioriétés opératoires](cours/les-priorites-operatoires)
 
+P0.01 - [Les calculs astucieux💡](cours/les-calculs-astucieux)
 
 # Des questions ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
