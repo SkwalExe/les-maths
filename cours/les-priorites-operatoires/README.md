@@ -22,25 +22,25 @@ Quand aucune operation n'est prioritaire, on effectue les calculs de gauche à d
 
 #### Les additions 
 
-Dans l'addition `5 + 4 = 9`
+Dans l'addition <!-- $5 + 4 = 9$ --> <img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}5%20%2B%204%20%3D%209">
 - `5` et `4` sont les `termes`
 - `9` est la `somme`
   
 #### Les soustractions
 
-Dans la soustraction `5 - 4 = 1`
+Dans la soustraction <!-- $5 - 4 = 1$ --> <img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}5%20-%204%20%3D%201">
 - `5` et `4` sont les `termes`
 - `1` est la `différence`
   
 #### Les multiplications
 
-Dans la multiplication `5 * 4 = 20`
+Dans la multiplication <!-- $5 \times 4 = 20$ --> <img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}5%20%5Ctimes%204%20%3D%2020">
 - `5` et `4` sont les `facteurs`
 - `20` est le `produit`
   
 #### Les divisions
 
-Dans la division  `20 / 4 = 5`
+Dans la division  <!-- $20 \div 4 = 5$ --> <img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}20%20%5Cdiv%204%20%3D%205">
 - `20` est le `dividende`
 - `4` est le `diviseur`
 - `5` est le `quotient`
@@ -48,35 +48,35 @@ Dans la division  `20 / 4 = 5`
 
 ## Exemple 
 <!-- $$
-5+2*3-(1+2)
+5+2\times3-(1+2)
 $$ --> 
 
-<img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}5%2B2*3-(1%2B2)">
+<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}5%2B2%5Ctimes3-(1%2B2)">
 
 1. **Les parenthèses**
 
 <!-- $$
-5+2*3-{\color{green}(1+2)}
+5+2\times3-{\color{green}(1+2)}
 $$ --> 
 
-<img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}5%2B2*3-%7B%5Ccolor%7Bgreen%7D(1%2B2)%7D">
+<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}5%2B2%5Ctimes3-%7B%5Ccolor%7Bgreen%7D(1%2B2)%7D">
 
 <!-- $$
-5+2*3-{\color{green}3}
+5+2 \times 3-{\color{green}3}
 $$ --> 
 
-<img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}5%2B2*3-%7B%5Ccolor%7Bgreen%7D3%7D">
+<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}5%2B2%20%5Ctimes%203-%7B%5Ccolor%7Bgreen%7D3%7D">
 
-2. **Les exposants**
+1. **Les exposants**
 
 Ils n'y a aucun exposants a calculer, on passe directement aux multiplications et divisions.
 
 3. **Multiplication & division**
 <!-- $$
-5+{\color{green}2*3}-3
+5+{\color{green}2\times 3}-3
 $$ --> 
 
-<img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}5%2B%7B%5Ccolor%7Bgreen%7D2*3%7D-3">
+<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}5%2B%7B%5Ccolor%7Bgreen%7D2%5Ctimes%203%7D-3">
 
 <!-- $$
 5+{\color{green}6}-3 
@@ -84,7 +84,7 @@ $$ -->
 
 <img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}5%2B%7B%5Ccolor%7Bgreen%7D6%7D-3%20">
 
-4. **Addition & soustraction**
+1. **Addition & soustraction**
 
 <!-- $$
 {\color{green}5+6-3}
