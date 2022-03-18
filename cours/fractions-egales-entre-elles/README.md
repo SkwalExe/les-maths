@@ -55,11 +55,10 @@ $$ -->
 Mais <!-- $\frac{8}{4}$ --> <img style="" src="https://latex.codecogs.com/svg.image?\tiny{\color{White}%5Cfrac%7B8%7D%7B4%7D"> est aussi égale à <!-- $\frac{4}{2}$ --> <img style="" src="https://latex.codecogs.com/svg.image?\tiny{\color{White}%5Cfrac%7B4%7D%7B2%7D">
 
 
-<!--
+
 ---
 
-<p align="right"><a href="../">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="../reduction-de-fractions">Section suivante ⏭️</a></p>
 
 ---
 

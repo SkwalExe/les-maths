@@ -12,6 +12,8 @@ P0.01 - [Les calculs astucieux💡](cours/les-calculs-astucieux)
 
 P0.02 - [Fractions égales entre elles](cours/fractions-egales-entre-elles)
 
+P0.02 - [Réduction de fractions](cours/reduction-de-fractions)
+
 # Des questions ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussion.png)
