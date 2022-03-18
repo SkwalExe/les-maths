@@ -1,3 +1,6 @@
+<!--
+{% raw %}
+-->
 # Sommaire📚
 - [Definition](#definition)
 - [Propriete](#propriete)
@@ -62,3 +65,7 @@ Mais <!-- $\frac{8}{4}$ --> <img style="" src="https://latex.codecogs.com/svg.im
 
 
 <p align="right">Cours créé par <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a></p>
+
+<!--
+{% endraw %}
+-->
