@@ -102,11 +102,9 @@ $$ -->
 <img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D10%7D%7B%5Ccolor%7Bblue%7D%2B10%7D-10">
 
 
-<!--
 ---
 
-<p align="right"><a href="../">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="../fractions-egales-entre-elles">Section suivante ⏭️</a></p>
 
 ---
 
