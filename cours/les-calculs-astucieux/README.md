@@ -26,10 +26,10 @@ $$ -->
 Nous pouvons apercevoir plusieurs termes qui s'opposent 
 
 <!-- $$
-{\color{green}5}{\color{Blue}+8}{\color{red}-7}+14{\color{green}-5}{\color{Blue}-8}{\color{red}+7}
+{\color{green}5}{\color{cyan}\ +\ 8}{\color{Orchid}\ -\ 7}+14{\color{green}\ -\ 5}{\color{cyan}\ -\ 8}{\color{Orchid}\ +\ 7}
 $$ --> 
 
-<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D5%7D%7B%5Ccolor%7BBlue%7D%2B8%7D%7B%5Ccolor%7Bred%7D-7%7D%2B14%7B%5Ccolor%7Bgreen%7D-5%7D%7B%5Ccolor%7BBlue%7D-8%7D%7B%5Ccolor%7Bred%7D%2B7%7D">
+<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D5%7D%7B%5Ccolor%7Bcyan%7D%5C%20%2B%5C%208%7D%7B%5Ccolor%7BOrchid%7D%5C%20-%5C%207%7D%2B14%7B%5Ccolor%7Bgreen%7D%5C%20-%5C%205%7D%7B%5Ccolor%7Bcyan%7D%5C%20-%5C%208%7D%7B%5Ccolor%7BOrchid%7D%5C%20%2B%5C%207%7D">
 
 Ces termes peuvent donc etre supprimer, ce qui nous laisse <!-- $+14$ --> <img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}%2B14">
 
@@ -44,10 +44,10 @@ $$ -->
 Ici, on remarque que `12+14` est égale a `26`
 
 <!-- $$
-8{\color{green}-26+26}
+8{\color{green}\ -\ 26\ +\ 26}
 $$ --> 
 
-<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}8%7B%5Ccolor%7Bgreen%7D-26%2B26%7D">
+<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}8%7B%5Ccolor%7Bgreen%7D%5C%20-%5C%2026%5C%20%2B%5C%2026%7D">
 
 Ce qui nous permet de retirer ces deux termes et nous donne comme résultat final : <!-- $8$ --> <img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}8">
 
@@ -68,10 +68,10 @@ $$ -->
 On peut apercevoir deux nombres ronds : 
 
 <!-- $$
-{\color{green}20}-26{\color{green}+10}+15
+{\color{green}20}\ -\ 26{\color{green}\ +\ 10}+15
 $$ --> 
 
-<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D20%7D-26%7B%5Ccolor%7Bgreen%7D%2B10%7D%2B15">
+<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D20%7D%5C%20-%5C%2026%7B%5Ccolor%7Bgreen%7D%5C%20%2B%5C%2010%7D%2B15">
 
 Nous les calculons en premier, ce qui simplifie le calcul.
 
@@ -90,16 +90,16 @@ $$ -->
 <img style="" src="https://latex.codecogs.com/svg.image?{\color{White}1%2B4%2B9%2B6-10">
 
 <!-- $$
-{\color{green}1}{\color{blue}+4}{\color{green}+9}{\color{blue}+6}-10
+{\color{green}1}{\color{cyan}\ +\ 4}{\color{green}\ +\ 9}{\color{cyan}\ +\ 6}-10
 $$ --> 
 
-<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D1%7D%7B%5Ccolor%7Bblue%7D%2B4%7D%7B%5Ccolor%7Bgreen%7D%2B9%7D%7B%5Ccolor%7Bblue%7D%2B6%7D-10">
+<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D1%7D%7B%5Ccolor%7Bcyan%7D%5C%20%2B%5C%204%7D%7B%5Ccolor%7Bgreen%7D%5C%20%2B%5C%209%7D%7B%5Ccolor%7Bcyan%7D%5C%20%2B%5C%206%7D-10">
 
 <!-- $$
-{\color{green}10}{\color{blue}\space+10}-10
+{\color{green}10}{\color{cyan}\ +\ 10}-10
 $$ --> 
 
-<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D10%7D%7B%5Ccolor%7Bblue%7D%2B10%7D-10">
+<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D10%7D%7B%5Ccolor%7Bcyan%7D%5C%20%2B%5C%2010%7D-10">
 
 
 ---

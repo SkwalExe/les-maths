@@ -39,7 +39,7 @@ $$ -->
 <img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%5Cfrac%7B8%7D%7B4%7D%20%3D%20%5Cfrac%7B8%7B%5Ccolor%7Bgreen%7D%5C%20%5Ctimes%5C%205%7D%7D%7B4%7B%5Ccolor%7Bgreen%7D%5C%20%5Ctimes%5C%205%7D%7D%3D%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D40%7D%7D%7B%7B%5Ccolor%7Bgreen%7D20%7D%7D">
 
 
-Donc $\frac{8}{4}$ est égale à $\frac{40}{20}$
+Donc <!-- $\frac{8}{4}$ --> <img style="" src="https://latex.codecogs.com/svg.image?\tiny{\color{White}%5Cfrac%7B8%7D%7B4%7D"> est égale à <!-- $\frac{40}{20}$ --> <img style="" src="https://latex.codecogs.com/svg.image?\tiny{\color{White}%5Cfrac%7B40%7D%7B20%7D">
 
 ### Exemple 2
 
@@ -49,7 +49,7 @@ $$ -->
 
 <img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%5Cfrac%7B8%7D%7B4%7D%20%3D%20%5Cfrac%7B8%7B%5Ccolor%7Bgreen%7D%5C%20%5Cdiv%20%5C%202%7D%7D%7B4%7B%5Ccolor%7Bgreen%7D%5C%20%5Cdiv%20%5C%202%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D4%7D%7D%7B%7B%5Ccolor%7Bgreen%7D2%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D4%7D%7B%5Ccolor%7Bcyan%7D%5C%20%5Cdiv%5C%202%7D%7D%7B%7B%5Ccolor%7Bgreen%7D2%7D%7B%5Ccolor%7Bcyan%7D%5C%20%5Cdiv%5C%202%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bcyan%7D2%7D%7D%7B%7B%5Ccolor%7Bcyan%7D1%7D%7D">
 
-Mais $\frac{8}{4}$ est aussi égale à $\frac{4}{2}$
+Mais <!-- $\frac{8}{4}$ --> <img style="" src="https://latex.codecogs.com/svg.image?\tiny{\color{White}%5Cfrac%7B8%7D%7B4%7D"> est aussi égale à <!-- $\frac{4}{2}$ --> <img style="" src="https://latex.codecogs.com/svg.image?\tiny{\color{White}%5Cfrac%7B4%7D%7B2%7D">
 
 
 <!--
