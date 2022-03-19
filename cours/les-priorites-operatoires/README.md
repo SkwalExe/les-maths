@@ -1,4 +1,8 @@
+<!--
+{% raw %}
+-->
 # Sommaire📚
+
 - [PEMDAS](#pemdas)
 - [Vocabulaire](#vocabulaire)
     - [Les additions](#les-additions)
@@ -8,7 +12,9 @@
 - [Exemple](#exemple)
 
 # Les priorités opératoires
+
 ## PEMDAS
+
 Voici l'ordre de priorité lors d'un calcul, appelé PEMDAS.
 
 1. Operations entre **P**arenthèses
@@ -44,7 +50,6 @@ Dans la division  <!-- $20 \div 4 = 5$ --> <img style="" src="https://latex.code
 - `20` est le `dividende`
 - `4` est le `diviseur`
 - `5` est le `quotient`
-
 
 ## Exemple 
 <!-- $$
@@ -120,16 +125,13 @@ $$ -->
 
 Résultat : <img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}%7B%5Ccolor%7Bgreen%7D8%7D">
 
-
-
-
-
 ---
 
 <p align="right"><a href="../les-calculs-astucieux">Section suivante ⏭️</a></p>
 
-
 ---
 
-
 <p align="right">Cours créé par <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a></p>
+<!--
+{% endraw %}
+-->

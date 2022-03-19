@@ -1,4 +1,8 @@
+<!--
+{% raw %}
+-->
 # Sommaire📚
+
 - [Astuce 1: Technique de simplification](#astuce-1-technique-de-simplification)
   - [Description](#description)
   - [Exemple](#exemple)
@@ -101,12 +105,14 @@ $$ -->
 
 <img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D10%7D%7B%5Ccolor%7Bcyan%7D%5C%20%2B%5C%2010%7D-10">
 
-
 ---
 
 <p align="right"><a href="../fractions-egales-entre-elles">Section suivante ⏭️</a></p>
 
 ---
 
-
 <p align="right">Cours créé par <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a></p>
+
+<!--
+{% endraw %}
+-->

@@ -2,6 +2,7 @@
 {% raw %}
 -->
 # Sommaire📚
+
 - [Definition](#definition)
 - [Propriete](#propriete)
 - [Exemples](#exemples)
@@ -29,6 +30,7 @@ Par exemple :
 - `15` n'est pas un nombre premier car il est divisible par `3` et par `5` ->  <!-- $15\div3=5\ \ et\ \ 15\div5=3$ --> <img style="" src="https://latex.codecogs.com/svg.image?\small{\color{White}15%5Cdiv3%3D5%5C%20%5C%20et%5C%20%5C%2015%5Cdiv5%3D3">
   
 ## Propriete
+
 Quand le terme du haut et du bas sont égaux, la fraction est égale a `1`
 
 <!-- $$
@@ -73,9 +75,7 @@ $$ -->
 
 <img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%5Cfrac%7B3%7B%5Ccolor%7Bgreen%7D%5C%20%5Ctimes%7D%5C%20%5Ccancel%7B%7B%5Ccolor%7Bgreen%7D5%7D%7D%7D%7B7%7B%5Ccolor%7Bgreen%7D%5C%20%5Ctimes%7D%5C%20%5Ccancel%7B%5Ccolor%7Bgreen%7D%7B5%7D%7D%7D%20%3D%20%5Cfrac%7B3%7D%7B7%7D">
 
-
 `3` et `7` sont des nombres premiers et ne sont pas égaux alors nous avons trouvé la forme irréductible.
-
 
 ### Exemple 2 
 
@@ -115,7 +115,6 @@ $$ -->
 -->
 
 ---
-
 
 <p align="right">Cours créé par <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a></p>
 
