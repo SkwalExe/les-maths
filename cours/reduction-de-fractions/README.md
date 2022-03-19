@@ -111,7 +111,7 @@ $$ -->
 <!--
 ---
 
-<p align="right"><a href="../reduction-de-fractions">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/les-maths/">Accueil 🏠</a> - <a href="../reduction-de-fractions">Section suivante ⏭️</a></p>
 -->
 
 ---

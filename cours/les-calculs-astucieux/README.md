@@ -107,7 +107,7 @@ $$ -->
 
 ---
 
-<p align="right"><a href="../fractions-egales-entre-elles">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/les-maths/">Accueil 🏠</a> - <a href="../fractions-egales-entre-elles">Section suivante ⏭️</a></p>
 
 ---
 

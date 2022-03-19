@@ -127,7 +127,7 @@ Résultat : <img style="" src="https://latex.codecogs.com/svg.image?\small{\colo
 
 ---
 
-<p align="right"><a href="../les-calculs-astucieux">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/les-maths/">Accueil 🏠</a> - <a href="../les-calculs-astucieux">Section suivante ⏭️</a></p>
 
 ---
 
