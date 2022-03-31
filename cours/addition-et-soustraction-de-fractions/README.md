@@ -90,7 +90,3 @@ On a mit les fractions au meme dénominateur, et on les a calculées.
 <!--
 {% endraw %}
 -->
-
-<!--
-{% endraw %}
--->
