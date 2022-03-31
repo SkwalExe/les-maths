@@ -101,11 +101,11 @@ $$ -->
 
 `3` et `2` ne font pas partie de la meme table de multiplication, nous avons trouvé la forme irréductible.
 
-<!--
+
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/les-maths/">Accueil 🏠</a> - <a href="../reduction-de-fractions">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://skwalexe.github.io/les-maths/">Accueil 🏠</a> - <a href="../addition-et-soustraction-de-fractions">Section suivante ⏭️</a></p>
+
 
 ---
 
