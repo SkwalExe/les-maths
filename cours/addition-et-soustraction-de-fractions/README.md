@@ -77,11 +77,11 @@ $$ -->
 
 On a mit les fractions au meme dénominateur, et on les a calculées.
 
-<!--
+
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/les-maths/">Accueil 🏠</a> - <a href="../reduction-de-fractions">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://skwalexe.github.io/les-maths/">Accueil 🏠</a> - <a href="../multiplication-de-fractions">Section suivante ⏭️</a></p>
+
 
 ---
 
