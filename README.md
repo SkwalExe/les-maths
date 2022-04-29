@@ -20,6 +20,8 @@ P0.02 - [Addition et soustraction de fractions](cours/addition-et-soustraction-d
 
 P0.02 - [Multiplication de fractions](cours/multiplication-de-fractions)
 
+P0.02 - [Division de fractions](cours/division-de-fractions)
+
 # Des questions ?
 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
