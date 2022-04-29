@@ -85,12 +85,10 @@ $$ -->
 
 <img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D4%7D%5Ctimes%5Cfrac%7B%7B%5Ccolor%7Bcyan%7D3%7D%7D%7B%7B%5Ccolor%7Bcyan%7D5%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D4%7D%7D%7B%7B%5Ccolor%7Bgreen%7D1%7D%7D%5Ctimes%20%5Cfrac%7B%7B%5Ccolor%7Bcyan%7D3%7D%7D%7B%7B%5Ccolor%7Bcyan%7D5%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D4%7D%5Ctimes%7B%5Ccolor%7Bcyan%7D3%7D%7D%7B%7B%5Ccolor%7Bgreen%7D1%7D%5Ctimes%7B%5Ccolor%7Bcyan%7D5%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D12%7D%7D%7B%7B%5Ccolor%7Bgreen%7D5%7D%7D">
 
-<!--
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/les-maths/">Accueil 🏠</a> - <a href="../addition-et-soustraction-de-fractions">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/les-maths/">Accueil 🏠</a> - <a href="../division-de-fractions">Section suivante ⏭️</a></p>
 
--->
 ---
 
 <p align="right">Cours créé par <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a></p>
