@@ -6,6 +6,12 @@
 
 Ce cours est inspiré des cours de préparation au DAEUB de [Maxime Mikolajczak](https://www.youtube.com/watch?v=q9lRWN0_ReI&list=PLPL7pmz6P850S1DWiqgpX3z-ymHfus6Ql) et est rédigé par Léopold Ibghy Koprivnik Aka [SkwalExe](https://github.com/SkwalExe)
 
+# Note 
+
+Quelques fois, les images ne chargent pas, vous verrez donc des artefacts tel que <img src="nonexistantdomain.com">
+
+Pour régler ce problème, il suffit de recharger la page.
+
 # Sommaire 📚
 
 P0.01 - [Les prioriétés opératoires](cours/les-priorites-operatoires)
