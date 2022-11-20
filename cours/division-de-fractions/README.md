@@ -21,6 +21,8 @@ L'inverse de  <!-- $a$ --> <img src="https://latex.codecogs.com/svg.image?\small
 Pour trouver l'inverse:
 
 - D'une fraction : On inverse le numerateur et le denominateur.
+
+
 <!-- $$
 inerse\ de\ \frac{{\color{green}a}}{{\color{cyan}b}} = \frac{{\color{cyan}b}}{{\color{green}a}}
 $$ -->
