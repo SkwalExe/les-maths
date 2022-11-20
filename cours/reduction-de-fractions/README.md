@@ -13,7 +13,7 @@
 
 ## Definition 
 
-Réduire une fraction, c'est l'écrire sous la forme la plus simple possible.
+Réduire une fraction, c'est l'écrire sous sa forme la plus simple possible.
 
 Lorsque c'est le cas, on dit que la fraction est irréductible.
 
@@ -22,6 +22,7 @@ Lorsque c'est le cas, on dit que la fraction est irréductible.
 2. Pour ensuite les décomposer afin de faire apparaitre le plus grand facteur commun possible en bas et en haut. 
 
 3. On peut ensuite retirer ce facteur commun et on repetera cette opération tant que possible
+
 ## Propriete
 
 Quand le terme du haut et du bas sont égaux, la fraction est égale a `1`
@@ -63,12 +64,12 @@ $$ -->
 on peut alors dire que 
 
 <!-- $$
-\frac{3{\color{green}\ \times}\ \cancel{{\color{green}5}}}{7{\color{green}\ \times}\ \cancel{\color{green}{5}}} = \frac{3}{7}
-$$ --> 
+\frac{3{\color{green}\ \times}\ {\color{green}5}}{7{\color{green}\ \times}\ \color{green}{5}} = \frac{3}{7}
+$$ -->
+<img src="https://latex.codecogs.com/svg.image?\color{white}%5Cfrac%7B3%7B%5Ccolor%7Bgreen%7D%5C%20%5Ctimes%7D%5C%20%7B%5Ccolor%7Bgreen%7D5%7D%7D%7B7%7B%5Ccolor%7Bgreen%7D%5C%20%5Ctimes%7D%5C%20%5Ccolor%7Bgreen%7D%7B5%7D%7D%20%3D%20%5Cfrac%7B3%7D%7B7%7D" />
 
-<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%5Cfrac%7B3%7B%5Ccolor%7Bgreen%7D%5C%20%5Ctimes%7D%5C%20%5Ccancel%7B%7B%5Ccolor%7Bgreen%7D5%7D%7D%7D%7B7%7B%5Ccolor%7Bgreen%7D%5C%20%5Ctimes%7D%5C%20%5Ccancel%7B%5Ccolor%7Bgreen%7D%7B5%7D%7D%7D%20%3D%20%5Cfrac%7B3%7D%7B7%7D">
 
-`3` et `7` ne sont pas égaux et n'appartiennent pas a la meme table de multiplication alors nous avons trouvé la forme irréductible.
+`3` et `7` ne sont pas égaux et n'appartiennent pas a une table de multiplication commune alors nous avons trouvé la forme irréductible.
 
 ### Exemple 2 
 

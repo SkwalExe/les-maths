@@ -10,10 +10,7 @@
   - [Exemple 2](#exemple-2)
 - [Regle 2](#regle-2)
   - [Definition](#definition-1)
-- [Exemples](#exemples-1)
-  - [Exemple 1](#exemple-1-1)
-  - [Exemple 2](#exemple-2-1)
-  - [Exemple 3](#exemple-3)
+  - [Exemple](#exemple)
 
 # Multiplication de fractions
 
@@ -59,9 +56,7 @@ $$ -->
 
 <img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7Da%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7Da%7D%7D%7B%7B%5Ccolor%7Bcyan%7D1%7D%7D">
 
-## Exemples
-
-### Exemple 1
+### Exemple 
 
 <!-- $$
 {\color{green}-4} = \frac{{\color{green}-4}}{{\color{cyan}1}}
@@ -69,21 +64,19 @@ $$ -->
 
 <img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D-4%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D-4%7D%7D%7B%7B%5Ccolor%7Bcyan%7D1%7D%7D">
 
-### Exemple 2
+**On peut donc multiplier une fraction par un nombre décimal en transformant le nombre décimal en fraction.**
 
 <!-- $$
-{\color{green}-4} \times {\color{green}3} = \frac{{\color{green}-4\times {\color{green}3}}}{{\color{cyan}1}}
-$$ --> 
+{\color{green}4}\times\frac{{\color{cyan}3}}{{\color{cyan}5}} = \frac{{\color{green}4}}{{\color{green}1}}\times \frac{{\color{cyan}3}}{{\color{cyan}5}}= \frac{{\color{green}12}}{{\color{green}5}}
+$$ -->
+<img src="https://latex.codecogs.com/svg.image?\color{white}%7B%5Ccolor%7Bgreen%7D4%7D%5Ctimes%5Cfrac%7B%7B%5Ccolor%7Bcyan%7D3%7D%7D%7B%7B%5Ccolor%7Bcyan%7D5%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D4%7D%7D%7B%7B%5Ccolor%7Bgreen%7D1%7D%7D%5Ctimes%20%5Cfrac%7B%7B%5Ccolor%7Bcyan%7D3%7D%7D%7B%7B%5Ccolor%7Bcyan%7D5%7D%7D%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D12%7D%7D%7B%7B%5Ccolor%7Bgreen%7D5%7D%7D" />
 
-<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D-4%7D%20%5Ctimes%20%7B%5Ccolor%7Bgreen%7D3%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D-4%5Ctimes%20%7B%5Ccolor%7Bgreen%7D3%7D%7D%7D%7B%7B%5Ccolor%7Bcyan%7D1%7D%7D">
-
-### Exemple 3
+Lorsque l’on multiplie une fraction par un nombre décimal, cela revient a multiplier le numérateur par le nombre décimal.
 
 <!-- $$
-{\color{green}4}\times\frac{{\color{cyan}3}}{{\color{cyan}5}} = \frac{{\color{green}4}}{{\color{green}1}}\times \frac{{\color{cyan}3}}{{\color{cyan}5}} = \frac{{\color{green}4}\times{\color{cyan}3}}{{\color{green}1}\times{\color{cyan}5}} = \frac{{\color{green}12}}{{\color{green}5}}
-$$ --> 
-
-<img style="" src="https://latex.codecogs.com/svg.image?{\color{White}%7B%5Ccolor%7Bgreen%7D4%7D%5Ctimes%5Cfrac%7B%7B%5Ccolor%7Bcyan%7D3%7D%7D%7B%7B%5Ccolor%7Bcyan%7D5%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D4%7D%7D%7B%7B%5Ccolor%7Bgreen%7D1%7D%7D%5Ctimes%20%5Cfrac%7B%7B%5Ccolor%7Bcyan%7D3%7D%7D%7B%7B%5Ccolor%7Bcyan%7D5%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D4%7D%5Ctimes%7B%5Ccolor%7Bcyan%7D3%7D%7D%7B%7B%5Ccolor%7Bgreen%7D1%7D%5Ctimes%7B%5Ccolor%7Bcyan%7D5%7D%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7D12%7D%7D%7B%7B%5Ccolor%7Bgreen%7D5%7D%7D">
+{\color{green}a}\times\frac{{\color{green}b}}{c} = \frac{{\color{green}a\times b}}{c}
+$$ -->
+<img src="https://latex.codecogs.com/svg.image?\color{white}%7B%5Ccolor%7Bgreen%7Da%7D%5Ctimes%5Cfrac%7B%7B%5Ccolor%7Bgreen%7Db%7D%7D%7Bc%7D%20%3D%20%5Cfrac%7B%7B%5Ccolor%7Bgreen%7Da%5Ctimes%20b%7D%7D%7Bc%7D" />
 
 ---
 
